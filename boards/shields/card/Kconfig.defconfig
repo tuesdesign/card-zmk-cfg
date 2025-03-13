@@ -1,7 +1,7 @@
 if SHIELD_CARD
 
 config ZMK_KEYBOARD_NAME
-    default "Tues Design CARD"
+    default "Tues CARD"
 endif
 CONFIG_ZMK_STUDIO=y
 CONFIG_ZMK_KSCAN_DIRECT_POLLING=y

@@ -3,7 +3,7 @@
 / {
     physical_layout0: physical_layout_0 {
         compatible = "zmk,physical-layout";
-        display-name = "Tues Design CARD";
+        display-name = "Tues CARD";
 
         kscan = <&kscan0>;
         transform = <&default_transform>;
