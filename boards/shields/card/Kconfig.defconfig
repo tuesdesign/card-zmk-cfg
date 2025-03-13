@@ -1,0 +1,6 @@
+if SHIELD_CARD
+
+config ZMK_KEYBOARD_NAME
+    default "Tues Design CARD"
+endif
+CONFIG_ZMK_STUDIO=y

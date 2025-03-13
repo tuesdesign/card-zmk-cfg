@@ -1,0 +1,8 @@
+file_format: "1"
+id: card
+name: TuesCard
+type: shield
+url: https://github.com/tuesdesign/card/
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
