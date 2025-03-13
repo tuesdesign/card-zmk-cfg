@@ -4,3 +4,4 @@ config ZMK_KEYBOARD_NAME
     default "Tues Design CARD"
 endif
 CONFIG_ZMK_STUDIO=y
+CONFIG_ZMK_KSCAN_DIRECT_POLLING=y
