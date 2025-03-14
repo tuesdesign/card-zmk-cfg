@@ -12,9 +12,17 @@
             // | [3]   [S] [C] [STUDIO] |
             // --------------------------
             bindings = <
-                &kp 1           &kp W    &kp Z          &kp 2
-                            &kp A    &kp D    &kp X
-                &kp 3            &kp S    &kp C         &studio_unlock
+                &kp NUMBER_2
+                &studio_unlock
+                &kp X
+                &kp Z
+                &kp D   
+                &kp S    
+                &kp C
+                &kp NUMBER_3           
+                &kp A
+                &kp W        
+                &kp NUMBER_1
             >;
         };
     };
