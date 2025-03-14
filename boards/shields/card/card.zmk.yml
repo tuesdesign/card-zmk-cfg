@@ -6,3 +6,4 @@ url: https://github.com/tuesdesign/card/
 requires: [seeeduino_xiao_ble]
 features:
   - keys
+  - studio
